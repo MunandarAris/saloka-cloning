@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/saloka-cloning/static/css/main.756d36e3.chunk.css",
+    "main.js": "/saloka-cloning/static/js/main.434c9bf2.chunk.js",
+    "main.js.map": "/saloka-cloning/static/js/main.434c9bf2.chunk.js.map",
+    "runtime-main.js": "/saloka-cloning/static/js/runtime-main.cee7d988.js",
+    "runtime-main.js.map": "/saloka-cloning/static/js/runtime-main.cee7d988.js.map",
+    "static/js/2.98f80c89.chunk.js": "/saloka-cloning/static/js/2.98f80c89.chunk.js",
+    "static/js/2.98f80c89.chunk.js.map": "/saloka-cloning/static/js/2.98f80c89.chunk.js.map",
+    "index.html": "/saloka-cloning/index.html",
+    "static/css/main.756d36e3.chunk.css.map": "/saloka-cloning/static/css/main.756d36e3.chunk.css.map",
+    "static/js/2.98f80c89.chunk.js.LICENSE.txt": "/saloka-cloning/static/js/2.98f80c89.chunk.js.LICENSE.txt",
+    "static/media/banner1.28c1c570.jpg": "/saloka-cloning/static/media/banner1.28c1c570.jpg",
+    "static/media/footer.6b330d8a.svg": "/saloka-cloning/static/media/footer.6b330d8a.svg",
+    "static/media/logo-saloka.92c1c5b6.png": "/saloka-cloning/static/media/logo-saloka.92c1c5b6.png",
+    "static/media/tirex.b5f39d28.png": "/saloka-cloning/static/media/tirex.b5f39d28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cee7d988.js",
+    "static/js/2.98f80c89.chunk.js",
+    "static/css/main.756d36e3.chunk.css",
+    "static/js/main.434c9bf2.chunk.js"
+  ]
+}
